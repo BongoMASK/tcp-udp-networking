@@ -1,37 +1,35 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\tomdw\\.nuget\\packages\\": {}
+    "/Users/Sanjay/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\tomdw\\Desktop\\Networking\\Tutorial\\GameServer\\GameServer\\GameServer.csproj",
+      "projectUniqueName": "/Users/Sanjay/GitHub/Pixel-2D/GameServer/GameServer.csproj",
       "projectName": "GameServer",
-      "projectPath": "D:\\tomdw\\Desktop\\Networking\\Tutorial\\GameServer\\GameServer\\GameServer.csproj",
-      "packagesPath": "C:\\Users\\tomdw\\.nuget\\packages\\",
-      "outputPath": "D:\\tomdw\\Desktop\\Networking\\Tutorial\\GameServer\\GameServer\\obj\\",
+      "projectPath": "/Users/Sanjay/GitHub/Pixel-2D/GameServer/GameServer.csproj",
+      "packagesPath": "/Users/Sanjay/.nuget/packages/",
+      "outputPath": "/Users/Sanjay/GitHub/Pixel-2D/GameServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tomdw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Sanjay/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "projectReferences": {}
         }
       },
@@ -42,7 +40,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
+      "netcoreapp3.1": {
         "imports": [
           "net461",
           "net462",
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
       }
     }
   }
